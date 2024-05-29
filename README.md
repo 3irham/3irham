@@ -1,2 +1,2 @@
-Hi, I’m Irham Muttaqin, currently learning flutter for mobile deveopment,
-learning from january 2022
+Currently learning flutter for mobile development,
+learning from January 2022
